@@ -13,3 +13,5 @@ commit 6 in feature-3 branch
 commit 7 in feature-3 branch
 
 This is commit in main branch
+
+test commit
